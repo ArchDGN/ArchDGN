@@ -10,7 +10,7 @@
                -+oooooo+:                Uptime: ~~ mins 
              `/:-:++oooo+:               Packages: ~~ (pacman), ~~ (flatpak) 
             `/++++/+++++++:              Shell: bash 5.1.16 
-           `/++++++++++++++:             Resolution: 2560x1080 
+           `/++++++++++++++:             Resolution: 2560x1080, 1920x1080
           `/+++ooooooooooooo/`           DE: Plasma 5.27.8 
          ./ooosssso++osssssso+`          WM: KWin 
         .oossssso-````/ossssss+`         Theme: [Plasma], Breeze [GTK2/3] 
