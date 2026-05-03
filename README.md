@@ -1,5 +1,5 @@
 ```text
--`                     nicolas@dellnicolas
+                  -`                     nicolas@dellnicolas
                  .o+`                    -------------------
                 `ooo/                    OS: Arch Linux x86_64
                `+oooo:                   Host: Dell G15 5515 (1.13.0)
