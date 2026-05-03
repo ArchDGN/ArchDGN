@@ -1,3 +1,4 @@
+```text
 -`                     nicolas@dellnicolas
                  .o+`                    -------------------
                 `ooo/                    OS: Arch Linux x86_64
@@ -18,3 +19,4 @@
 `++:.                            `-/+/   GPU: NVIDIA GeForce RTX 3060 Mobile / Max-Q [Discrete]
 .`                                 `/    Memory: ~~~~ GiB / 62.64 GiB (8%)
                                          Locale: fr_FR.UTF-8
+```
