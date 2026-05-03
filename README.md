@@ -7,7 +7,7 @@
               -+oooooo+:                 Uptime: ~~ mins
             `/:-:++oooo+:                Packages: ~~ (pacman)
            `/++++/+++++++:               Shell: zsh 5.9
-          `/++++++++++++++:              Display (DELL P2418D): 2560x1440 in 24", 60 Hz [External]
+          `/++++++++++++++:              Display (DELL): 1920x1080 in 15", 120 Hz [Built-in]
          `/+++ooooooooooooo/`            WM: Hyprland 0.54.3 (Wayland)
         ./ooosssso++osssssso+`           Theme: Fusion [Qt], Adwaita-dark [GTK2/3]
        .oossssso-````/ossssss+`          Icons: Adwaita [GTK2/3]
