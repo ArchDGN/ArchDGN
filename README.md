@@ -11,10 +11,10 @@
          `/+++ooooooooooooo/`            WM: Hyprland 0.54.3 (Wayland)
         ./ooosssso++osssssso+`           Theme: Fusion [Qt], Adwaita-dark [GTK2/3]
        .oossssso-````/ossssss+`          Icons: Adwaita [GTK2/3]
-      -osssssso.      :ssssssso.         Font: Sans Serif (9pt) [Qt], Adwaita Sans (11pt) [GTK2/3]
-     :osssssss/        osssso+++.        Cursor: "Future-Cyan-Hyprcursor_Theme" (48px)
+      -osssssso.      :ssssssso.         Font: Sans Serif [Qt], Adwaita Sans [GTK2/3]
+     :osssssss/        osssso+++.        Cursor: "Future-Cyan-Hyprcursor_Theme"
     /ossssssss/        +ssssooo/-        Terminal: konsole 26.4.0
-  `/ossssso+/:-        -:/+osssso+-      Terminal Font: 0xProto Nerd Font (12pt)
+  `/ossssso+/:-        -:/+osssso+-      Terminal Font: 0xProto Nerd Font
  `+sso+:-`                 `.-/+oso:     CPU: AMD Ryzen 7 5800H (16) @ 3.20 GHz
 `++:.                            `-/+/   GPU: NVIDIA GeForce RTX 3060 Mobile / Max-Q [Discrete]
 .`                                 `/    Memory: ~~~~ GiB / 62.64 GiB (8%)
